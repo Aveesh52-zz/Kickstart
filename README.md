@@ -17,11 +17,6 @@ A decentralized crowdfund using ethereum smart contract
 
 ![image](c9.png)
 
-![image](c10.png)
-
-![image](c11.png)
-
-![image](c12.png)
 
 
 
